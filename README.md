@@ -97,6 +97,7 @@ I’m a passionate **Front-end Web Developer** with 1+ years of experience speci
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranagithubrr&show_icons=true&theme=tokyonight" alt="Masud Rana's GitHub Stats" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ranagithubrr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Masud Rana's GitHub Stats" height="150px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranagithubrr&theme=tokyonight" alt="Masud Rana's GitHub Streak" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranagithubrr&layout=compact&theme=tokyonight" alt="Top Languages" height="150px" />
 </p>
