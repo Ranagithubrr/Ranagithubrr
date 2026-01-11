@@ -94,16 +94,8 @@ I’m a passionate **Front-end Web Developer** with 1+ years of experience speci
 
 ---
 
-## ⚡ GitHub Stats
-
-<p align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Ranagithubrr&show_icons=true&theme=tokyonight&v=1)
-
-![Streak](https://streak-stats.demolab.com?user=Ranagithubrr&theme=tokyonight&v=1)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranagithubrr&layout=compact&theme=tokyonight&v=1)
-
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
+</div>
 
 
