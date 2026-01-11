@@ -94,6 +94,11 @@ I’m a passionate **Front-end Web Developer** with 1+ years of experience speci
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=firadfd&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/firadfd?label=Followers&style=social&color=8A2BE2" alt="GitHub Followers"/>
+</p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
