@@ -75,6 +75,7 @@ I’m a passionate **Front-end Web Developer** with 1+ years of experience speci
 ## 🧾 Education
 🎓 **Diploma in Computer Engineering**  
 *Kurigram Polytechnic Institute (2019 – 2023)*
+---
 🎓 **BSc in Computer Science & Engineering**  
 *World University of Bangladesh (2025 – Present)*
 
