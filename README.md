@@ -70,19 +70,21 @@ I’m a passionate **Front-end Web Developer** with 1+ years of experience speci
 - **[Axit – Product Landing Page](https://ranagithubrr.github.io/axit)**  
   Product showcase with clean UI and reusable components.
 
----
+## 🎓 Education
 
-## 🧾 Education
-🎓 **Diploma in Computer Engineering**  
-*Kurigram Polytechnic Institute (2019 – 2023)*
----
-🎓 **BSc in Computer Science & Engineering**  
-*World University of Bangladesh (2025 – Present)*
+**Diploma in Computer Engineering**  
+Kurigram Polytechnic Institute  
+*2019 – 2023*
+
+**BSc in Computer Science & Engineering**  
+World University of Bangladesh  
+*2025 – Present*
 
 ---
 
 ## 🏅 Certificates
-- Internship Certificate from **Nifty IT Solution** (2023)
+
+- Internship Certificate — **Nifty IT Solution** (2023)
 
 ---
 
