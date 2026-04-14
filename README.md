@@ -5,7 +5,7 @@ I’m a passionate **Front-end Web Developer** with 1+ years of experience speci
 
 🌍 Based in **Dhaka, Bangladesh**  
 📧 [ranarr.dev@gmail.com](mailto:ranarr.dev@gmail.com)  
-🌐 [Portfolio](https://ranarr.vercel.app/) | [GitHub](https://github.com/Ranagithubrr) | [LinkedIn](#)  
+🌐 [Portfolio](https://ranarr.vercel.app/) | [GitHub](https://github.com/Ranagithubrr) | [LinkedIn](https://www.linkedin.com/in/rana-rr/)  
 
 ---
 
@@ -100,8 +100,8 @@ World University of Bangladesh
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ranagithubrr&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/ranagithubrr?label=Followers&style=social&color=8A2BE2" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=rr-rana&label=Profile+Views&color=8A2BE2&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/rr-rana?label=Followers&style=social&color=8A2BE2" alt="GitHub Followers"/>
 </p>
 
 <div align="center">
